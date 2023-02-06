@@ -1,4 +1,3 @@
-프로젝트 사이트:
 와이어프레임: https://www.figma.com/file/Coxinl9PoWumXEQCyslYkf/Untitled?node-id=27%3A1194&t=NKLmC1iBjdZOADZg-0
 
 ### 프로젝트 설명
